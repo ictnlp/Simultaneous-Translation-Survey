@@ -1,4 +1,4 @@
-# Awesome Simultaneous Translation
+# Simultaneous Translation
 
 This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**.
 
